@@ -48,7 +48,5 @@
   <img src="https://streak-stats.demolab.com?user=ayush212op&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 
-### 🛠️ Languages & Tools
-
 
 
