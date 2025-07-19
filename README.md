@@ -36,7 +36,7 @@
 
 <h3 align="center">📂 My Projects</h3>
 
-- 🟧🎨 [**Commit to Career**](https://github.com/ayush212op/commit-to-career)** - My responsive personal portfolio and resume site, built with HTML and internal CSS.
+- 🟧🎨 [**Commit to Career**](https://github.com/ayush212op/commit-to-career) - My responsive personal portfolio and resume site, built with HTML and internal CSS.
 - 💻 [**Menu Items**](https://github.com/ayush212op/menu-items) — A menu-driven project written in **C** to practice conditionals and user interaction.  
 - 🐍 [**100 Days of Python**](https://github.com/ayush212op/100-days-of-python) — My Python journey of 100 days. Includes daily tasks, practice problems, and logic-building exercises.
 
