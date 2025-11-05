@@ -1,80 +1,79 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </div>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Ayush</span></h1>
-<h3 align="center">🚀 Passionate Tech Learner | 💻 C & Python Developer | 📍 Pune, India</h3>
+<h3 align="center">🚀 Tech Explorer | 💻 C & Python Dev | 📍 Pune, India 🇮🇳</h3>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 <div align="center">
-  
-🎓 Diploma student exploring the world of **AI, ML, and Software Dev**  
-👨‍💻 Learning programming by **building real-world projects**  
-⚙️ Currently coding in **C** and **Python**, diving into **ML soon!**  
-📬 Reach me at: **ayushpansare30@gmail.com**  
-⚡ Fun fact: I turn caffeine and logic into clean code ✨  
+
+🎓 Diploma student diving deep into **AI, ML & Software Development**  
+👨‍💻 I learn best by **building real-world projects and solving challenges**  
+⚙️ Currently working with **C** & **Python**, gearing up for **Machine Learning**  
+💡 Love experimenting with tech & automating daily tasks  
+📫 Reach me at: **ayushpansare30@gmail.com**  
+☕ Fun fact: I debug better with caffeine 😎  
 
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚙️ Tech Stack
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
-<img width="20" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode logo" />
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 
 </div>
 
 ---
 
-### 💼 My Projects
+### 💼 Featured Projects  
 
 🚀 **[Commit to Career](https://github.com/ayush212op/commit-to-career)**  
-A responsive **portfolio and resume site** built with HTML & internal CSS.  
+A **portfolio + resume** site built with HTML & internal CSS. Showcasing simplicity and design balance.  
 
 🧾 **[Menu Items](https://github.com/ayush212op/menu-items)**  
-A **menu-driven C project** showcasing conditionals, logic, and user interaction.  
+A **menu-driven C program** demonstrating conditionals, logic flow & user interactivity.  
 
 🐍 **[100 Days of Python](https://github.com/ayush212op/100-days-of-python)**  
-My **Python learning journey**, packed with practice programs, logic-building tasks, and automation scripts.  
+My **Python mastery journey**, with logic-building, automation scripts, and real challenges.
 
 ---
 
-### 📊 GitHub Stats
-
+### 📈 GitHub Analytics
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayush212op&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="GitHub Streak Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ayush212op&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=ayush212op&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush212op&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="180" alt="GitHub Stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush212op&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="150" alt="Top Languages"/>
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me  
 <div align="center">
 
-<a href="https://github.com/ayush212op">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/ayush212op" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
-<a href="mailto:ayushpansare30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ayushpansare30@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 </div>
 
 ---
 
-<h3 align="center">✨ Keep coding, keep growing. The next big thing starts with a single <code>printf()</code>. ✨</h3>
+<h3 align="center">✨ Keep building, keep learning. Every big project starts with a single <code>printf()</code>. ✨</h3>
+
+---
