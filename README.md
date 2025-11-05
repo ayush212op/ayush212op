@@ -69,7 +69,7 @@ My **Python learning journey**, packed with practice programs, logic-building ta
 <a href="https://github.com/ayush212op">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:ayush.contact">
+<a href="mailto:ayushpansare30@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
