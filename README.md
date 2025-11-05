@@ -13,7 +13,7 @@
 🎓 Diploma student exploring the world of **AI, ML, and Software Dev**  
 👨‍💻 Learning programming by **building real-world projects**  
 ⚙️ Currently coding in **C** and **Python**, diving into **ML soon!**  
-📬 Reach me at: **ayush.contact**  
+📬 Reach me at: **ayushpansare30@gmail.com**  
 ⚡ Fun fact: I turn caffeine and logic into clean code ✨  
 
 </div>
